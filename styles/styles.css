@@ -1,8 +1,7 @@
-p {color: red;
+p {color: black;
 width: 500px;
-border: 1px solid black;
 }
-p, li, hi {color: maroon;}
+p, li, hi {color: black;}
 
 html {background-color: #00539F;}
 
@@ -20,3 +19,11 @@ h1 {
 	color: #00539F;
 	text-shadow: 2px 2px 1px black;
 }
+
+.quote {
+	border: 1px solid black
+}
+
+.importanttext {
+	display: inline-block;
+	}
